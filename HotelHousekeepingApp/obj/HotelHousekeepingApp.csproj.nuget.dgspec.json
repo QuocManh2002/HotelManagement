@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj",
         "projectName": "DataAccessing",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
         "projectName": "HotelHousekeepingApp",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj"
+              "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj"
               }
             }
           }

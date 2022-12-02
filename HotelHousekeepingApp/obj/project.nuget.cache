@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfYFq1P/IAKKG/swDpU8BRDbqtKXotM5oQpAG2zA/W9erVGH/j3PRz3FmD9wXXWuk7g3a+MAvgzZKASSyZ++wQ==",
+  "dgSpecHash": "IkbCuF7S3wKgilSw+1bL9J2jvlVPDyS4xKxbZRv/yuHMEHvC1izPYiocCQpki7o9nljwTqSmplqGp3+GncyPxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\HotelHousekeepingApp\\HotelHousekeepingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

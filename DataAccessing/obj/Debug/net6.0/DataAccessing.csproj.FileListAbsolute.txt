@@ -118,3 +118,18 @@ C:\Users\ADMIN\OneDrive\Desktop\project-20221110T173550Z-001\project\HotelHousek
 C:\Users\ADMIN\OneDrive\Desktop\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
 C:\Users\ADMIN\OneDrive\Desktop\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
 C:\Users\ADMIN\OneDrive\Desktop\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\OneDrive\Desktop\New folder (5)\HotelManagement\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll

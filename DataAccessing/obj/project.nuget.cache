@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gw0FPGDPDezLqdfwUl0gflBUfC/sRZYk0oHiVd047+cxiz3LAEJtjkp4lUUFcFXy3KCjS/pwmHhF0A/g5IgiEg==",
+  "dgSpecHash": "FrI4Qx8JiFnf1lkcjHIRhZfZ97NhbobgR1U1cABLreiqiKf65CtZhIyoxK3PdX1gQ9RGSm3yuGSCiDcdnbg9mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\project-20221110T173550Z-001\\project\\HotelHousekeeping\\DataAccessing\\DataAccessing.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder (5)\\HotelManagement\\DataAccessing\\DataAccessing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
